@@ -9,7 +9,7 @@ Resumo do meu progresso:
 ## Módulo I
 
 - Boas-vindas ao Decola Tech 3ª edição 
-- Aula Inaugural - Decola Tech 3ª edição (17/05)
+- Aula Inaugural - Decola Tech 3ª edição 
 - Tudo que você precisa saber para ser protagonista em um Bootcamp DIO 
 - Introdução à programação e pensamento computacional 
 - Introdução ao Git e ao GitHub 
